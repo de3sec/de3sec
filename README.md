@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AMAN RAJPAL @de3sec
-- 👀 I’m interested in Full-stack development
+- 👀 I’m Full stack developer
 - 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on anything intuative
 - 📫 Visit www.halinpo.ga to know more about me.
